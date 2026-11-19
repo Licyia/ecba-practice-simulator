@@ -1,4 +1,4 @@
-# IIBA-ECBA Practice Studio®
+# IIBA®-ECBA Practice Studio
 
 Public static study tool for ECBA preparation. Open index.html to choose timed or untimed practice, select domains, and build a Study Session.
 
